@@ -28,7 +28,7 @@ title: "Christopher Esterhuyse"
   > "The final publication is available at Springer via https://doi.org/10.1007/978-3-031-95589-1_1"
 
 - **JustAct+: Justified and Accountable Actions in Policy-Regulated, Multi-Domain Data Processing**
-    with [L. Thomas van Binsbergen](https://ltvanbinsbergen.nl/) and [TimMüller](https://orcid.org/0000-0002-9759-5973)
+    with [L. Thomas van Binsbergen](https://ltvanbinsbergen.nl/) and [Tim Müller](https://orcid.org/0000-0002-9759-5973)
     [Repo](https://zenodo.org/records/15470286)
   _Under review for LMCS 2025_  
   DOI: [10.48550/arXiv.2502.00138](https://doi.org/10.48550/arXiv.2502.00138)
