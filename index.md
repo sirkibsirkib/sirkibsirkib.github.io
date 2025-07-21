@@ -9,10 +9,12 @@ title: "Christopher Esterhuyse"
 [CV (PDF)](/cv.pdf)  
 [Google Scholar](https://scholar.google.com/citations?user=A27CKwsAAAAJ)  
 [GitHub](https://github.com/sirkibsirkib)  
+[ORCID](https://orcid.org/0000-0002-9124-9092)  
+[LinkedIn](https://www.linkedin.com/in/caesterhuyse)  
 
 ---
 
-## Preprints
+## Publications
 
 - **Formal Foundations for Reowolf: Multi-Party Sessions via Synchronous Protocol Programming**  
   [PDF](/preprints/reowolf_foundations_preprint.pdf)  
