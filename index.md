@@ -2,7 +2,7 @@
 layout: default
 title: "Christopher Esterhuyse"
 
-![My photo](/pics/my_face.jpg)
+![Picture](pics/my_face.jpg "Face")
 ---
 
 ## Personal Pages
