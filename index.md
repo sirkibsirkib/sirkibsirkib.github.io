@@ -23,8 +23,7 @@ title: "Christopher Esterhuyse"
   [Preprint PDF](/preprints/reowolf_foundations_preprint.pdf)
   [Repo](https://zenodo.org/records/15247834)
   _Published at COORDINATION 2025_  
-  DOI: [10.1007/978-3-031-95589-1_1](https://doi.org/10.1007/978-3-031-95589-1_1)  
-  > "The final publication is available at Springer via https://doi.org/10.1007/978-3-031-95589-1_1"
+  DOI: [10.1007/978-3-031-95589-1_1](https://doi.org/10.1007/978-3-031-95589-1_1)
 
 - **JustAct+: Justified and Accountable Actions in Policy-Regulated, Multi-Domain Data Processing**
     with [L. Thomas van Binsbergen](https://ltvanbinsbergen.nl/) and [TimMüller](https://orcid.org/0000-0002-9759-5973)
