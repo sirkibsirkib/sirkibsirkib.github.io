@@ -7,7 +7,7 @@ title: "Christopher Esterhuyse"
 
 ## Personal Pages
 
-- email: [c.a.esterhuyse _ AT _ uva.nl](c.a.esterhuyseATuva.nl)  
+- [c.a.esterhuyse _ AT _ uva.nl](c.a.esterhuyseATuva.nl)  
 - [CV PDF](/cv.pdf)  
 - [Google Scholar](https://scholar.google.com/citations?user=A27CKwsAAAAJ)  
 - [GitHub](https://github.com/sirkibsirkib)  
