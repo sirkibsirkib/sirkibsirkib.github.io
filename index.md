@@ -13,6 +13,7 @@ title: "Christopher Esterhuyse"
 - [GitHub](https://github.com/sirkibsirkib)  
 - [ORCID](https://orcid.org/0000-0002-9124-9092)  
 - [LinkedIn](https://www.linkedin.com/in/caesterhuyse)  
+- [UvA/CCI People](https://cci-research.nl/author/christopher-esterhuyse/)
 
 ---
 
@@ -22,8 +23,9 @@ title: "Christopher Esterhuyse"
     with [Benjamin Lion](https://benjaminlion.fr/), [Hans-Dieter Hiep](https://www.drheap.nl/), and [Farhad Arbab](https://homepages.cwi.nl/~farhad/).
   [Preprint PDF](/preprints/reowolf_foundations_preprint.pdf)
   [Repo](https://zenodo.org/records/15247834)
-  _Published at COORDINATION 2025_  
-  DOI: [10.1007/978-3-031-95589-1_1](https://doi.org/10.1007/978-3-031-95589-1_1)
+  _Published at COORDINATION 2025_
+  DOI: [10.1007/978-3-031-95589-1_1](https://doi.org/10.1007/978-3-031-95589-1_1)  
+  > "The final publication is available at Springer via https://doi.org/10.1007/978-3-031-95589-1_1"
 
 - **JustAct+: Justified and Accountable Actions in Policy-Regulated, Multi-Domain Data Processing**
     with [L. Thomas van Binsbergen](https://ltvanbinsbergen.nl/) and [TimMüller](https://orcid.org/0000-0002-9759-5973)
